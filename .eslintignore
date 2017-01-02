@@ -1,0 +1,6 @@
+**/*.yml
+public/**/*.js
+public/**/*.htm
+public/**/*.html
+public/**/*.css
+public/**/*.txt
